@@ -87,7 +87,7 @@ li.list a{
     left: 5%;
 }
 .banner01{
-	background: url("1_banner.jpg");
+	background: url("image/1_banner.jpg");
 	height: 100%;
 	width:100%;
 	background-position-y: center;
@@ -144,7 +144,7 @@ li.list a{
    display:flex;
 }
 .vegetable01{
-	background: url("service01.jpg");
+	background: url("image/service01.jpg");
 	width:100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -173,7 +173,7 @@ li.list a{
 }
 
 .vegetable02{
-	background: url("service02.jpg");
+	background: url("image/service02.jpg");
 	width:100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -197,7 +197,7 @@ li.list a{
 	text-decoration: none;
 }
 .vegetable03{
-	background: url("service03.jpg");
+	background: url("image/service03.jpg");
 	width:100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -221,7 +221,7 @@ li.list a{
 	text-decoration: none;
 }
 .vegetable04{
-	background: url("service04.jpg");
+	background: url("image/service04.jpg");
 	width:100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -245,7 +245,7 @@ li.list a{
 	text-decoration: none;
 }
 .vegetable05{
-	background: url("service05.jpg");
+	background: url("image/service05.jpg");
 	width:100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -279,7 +279,7 @@ li.list a{
 }
 
 .tomato_img{
-	background: url("1_vegetablehomeland_logo3.png");
+	background: url("image/1_vegetablehomeland_logo3.png");
 	width: 70px;
 	height:70px;	
 }
@@ -290,7 +290,7 @@ li.list a{
     margin:0 15px;
 }
 .vegetable_img{
-    background: url("1_vegetablehomeland_logo2.png");
+    background: url("image/1_vegetablehomeland_logo2.png");
     width: 70px;
 	height:70px;
 }
@@ -306,21 +306,21 @@ li.list a{
     display: inline-block;
 }
 .div01_information1_img{
-    background: url("mynews01.jpg");
+    background: url("image/mynews01.jpg");
     background-repeat: no-repeat;
     width: 338px;
     height: 300px;
     display: inline-block;
 }
 .div02_information2_img{
-    background: url("mynews02.jpg");
+    background: url("image/mynews02.jpg");
     background-repeat: no-repeat;
     width: 338px;
     height: 300px;
     display: inline-block;
 }
 .div03_information3_img{
-    background: url("mynews03.jpg");
+    background: url("image/mynews03.jpg");
     background-repeat: no-repeat;
     width: 338px;
     height: 300px;
@@ -355,7 +355,7 @@ li.list a{
 
 
 .service-bg{
-    background: url("hotbg.png");
+    background: url("image/hotbg.png");
     background-repeat: repeat;
 }
 
@@ -372,42 +372,42 @@ li.list a{
     background: rgba(255,255,255,0.68);
 }
 .service-img1 {
-    background: url(3_icon1.png);
+    background: url(image/3_icon1.png);
     width: 200px;
     height: 200px;
     background-repeat: no-repeat;
     margin: auto;
 }
 .service-img2 {
-    background: url(3_icon2.png);
+    background: url(image/3_icon2.png);
     width: 200px;
     height: 200px;
     background-repeat: no-repeat;
     margin: auto;
 }
 .service-img3 {
-    background: url(3_icon3.png);
+    background: url(image/3_icon3.png);
     width: 200px;
     height: 200px;
     background-repeat: no-repeat;
     margin: auto;
 }
 .service-img4 {
-    background: url(3_icon4.png);
+    background: url(image/3_icon4.png);
     width: 200px;
     height: 200px;
     background-repeat: no-repeat;
     margin: auto;
 }
 .service-img5 {
-    background: url(3_icon5.png);
+    background: url(image/3_icon5.png);
     width: 200px;
     height: 200px;
     background-repeat: no-repeat;
     margin: auto;
 }
 .service-img6 {
-    background: url(3_icon6.png);
+    background: url(image/3_icon6.png);
     width: 200px;
     height: 200px;
     background-repeat: no-repeat;
@@ -438,7 +438,7 @@ li.list a{
 
 
 .div1_description{
-	 background: url(4_banner.jpg);
+	 background: url(image/4_banner.jpg);
 	 background-repeat: no-repeat;
 	 height: 90%;
 	 width:100%;
@@ -469,7 +469,7 @@ li.list a{
 }
 
 .div2_description{
-     background: linear-gradient(rgba(149, 68, 23, 0.36),rgba(149, 68, 23, 0.36)),url(6_vegetable_pic1.jpg);
+     background: linear-gradient(rgba(149, 68, 23, 0.36),rgba(149, 68, 23, 0.36)),url(image/6_vegetable_pic1.jpg);
 	 background-repeat: no-repeat;
 	 height: 30%;
 	 width:100%;
@@ -501,7 +501,7 @@ li.list a{
     display: grid;
 }
 .note01_img{
-	 background: url(5_icon1.png);
+	 background: url(image/5_icon1.png);
 	 background-repeat: no-repeat;
 	 height: 150px;
 	 width:200px;
@@ -521,7 +521,7 @@ li.list a{
     display: grid;
 }
 .note02_img{
-	 background: url(5_icon2.png);
+	 background: url(image/5_icon2.png);
 	 background-repeat: no-repeat;
 	 height: 150px;
 	 width:200px;
@@ -535,7 +535,7 @@ li.list a{
     display:grid;
 }
 .note03_img{
-	 background: url(5_icon3.png);
+	 background: url(image/5_icon3.png);
 	 background-repeat: no-repeat;
 	 height: 150px;
 	 width:200px;
@@ -554,15 +554,15 @@ li.list a{
 
 
 .price01_bg{
-    background: linear-gradient(rgba(149, 68, 23, 0.36),rgba(149, 68, 23, 0.36)),url(6_vegetable_pic2.jpg);
+    background: linear-gradient(rgba(149, 68, 23, 0.36),rgba(149, 68, 23, 0.36)),url(image/6_vegetable_pic2.jpg);
     float: left;
 }
 .price02_bg{
-    background: linear-gradient(rgba(149, 68, 23, 0.36),rgba(149, 68, 23, 0.36)),url(6_vegetable_pic3.jpg);
+    background: linear-gradient(rgba(149, 68, 23, 0.36),rgba(149, 68, 23, 0.36)),url(image/6_vegetable_pic3.jpg);
     float: right;
 }
 .price03_bg{
-    background: linear-gradient(rgba(149, 68, 23, 0.36),rgba(149, 68, 23, 0.36)),url(6_vegetable_pic4.jpg);
+    background: linear-gradient(rgba(149, 68, 23, 0.36),rgba(149, 68, 23, 0.36)),url(image/6_vegetable_pic4.jpg);
     float: left;
 }
 .price01_bg,.price02_bg,.price03_bg{
@@ -635,7 +635,7 @@ li.list a{
 	line-height: 1.5;
 }
 .delivery_img{
-    background: url(6_vegetable_pic5.jpg);
+    background: url(image/6_vegetable_pic5.jpg);
     background-repeat: no-repeat;
     height: 50%;
     width: 100%;
@@ -649,22 +649,22 @@ li.list a{
     width: 100%;
 }
 .vegetable_pic1 {
-    background: url(9_vegetable_pic1.jpg);
+    background: url(image/9_vegetable_pic1.jpg);
 }
 .vegetable_pic2 {
-    background: url(9_vegetable_pic2.jpg);
+    background: url(image/9_vegetable_pic2.jpg);
 }
 .vegetable_pic3 {
-    background: url(9_vegetable_pic3.jpg);
+    background: url(image/9_vegetable_pic3.jpg);
 }
 .vegetable_pic4 {
-    background: url(9_vegetable_pic4.jpg);
+    background: url(image/9_vegetable_pic4.jpg);
 }
 .vegetable_pic5 {
-    background: url(9_vegetable_pic5.jpg);
+    background: url(image/9_vegetable_pic5.jpg);
 }
 .vegetable_pic6 {
-    background: url(9_vegetable_pic6.jpg);
+    background: url(image/9_vegetable_pic6.jpg);
 }
 .vegetable_pic1,.vegetable_pic2,.vegetable_pic3,.vegetable_pic4,.vegetable_pic5,.vegetable_pic6 {
     background-repeat: no-repeat;
@@ -678,7 +678,7 @@ li.list a{
 
 
 .content_logo{
-    background: url(vegetablehomeland_logo.png);
+    background: url(image/vegetablehomeland_logo.png);
     background-repeat: no-repeat;
     height: 10%;
     width: 30%;
@@ -702,7 +702,7 @@ li.list a{
     color: #fff;
 }
 .content_fb{
-    background: url(facebook-.png);
+    background: url(image/facebook-.png);
     width: 10%;
     height: 12%;
     background-repeat: no-repeat;
